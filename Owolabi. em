@@ -1,0 +1,16 @@
+# make a new repo folder
+mkdir owolabi-empire && cd owolabi-empire
+
+# move LICENSE and README.md into it
+mv ~/Downloads/LICENSE .
+mv ~/Downloads/README.md .
+
+# initialize git
+git init
+git add .
+git commit -m "Initial commit with BSD 3-Clause License"
+
+# connect to GitHub (replace with your actual repo URL)
+git remote add origin https://github.com/YourUsername/owolabi-empire.git
+git branch -M main
+git push -u origin main
