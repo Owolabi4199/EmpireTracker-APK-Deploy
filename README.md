@@ -1,4 +1,4 @@
-# Empire Tracker APK – 🍁OWOLABI🍁EMPIRE🍁 Surveillance Tool
+# Empire Tracker APK 
 
 **Empire Tracker** is a private, high-performance stealth APK designed for internal security, device monitoring, GPS location tracking, microphone access, and Gmail account identity extraction. Built by 🍁OWOLABI🍁EMPIRE🍁, this is not your regular Android tool — it's a core weapon in a digital empire.
 
